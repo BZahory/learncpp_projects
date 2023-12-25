@@ -41,7 +41,7 @@
 		DA0FAD872B399CBA00C28D34 = {
 			isa = PBXGroup;
 			children = (
-				DA0FAD922B399CBA00C28D34 /* learncpp_projects */,
+				DA0FAD9A2B399CCA00C28D34 /* HelloWorld */,
 				DA0FAD912B399CBA00C28D34 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				DA0FAD902B399CBA00C28D34 /* learncpp_projects */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		DA0FAD922B399CBA00C28D34 /* learncpp_projects */ = {
-			isa = PBXGroup;
-			children = (
-				DA0FAD9A2B399CCA00C28D34 /* HelloWorld */,
-			);
-			path = learncpp_projects;
 			sourceTree = "<group>";
 		};
 		DA0FAD9A2B399CCA00C28D34 /* HelloWorld */ = {
