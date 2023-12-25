@@ -57,9 +57,17 @@
 		DA0FAD922B399CBA00C28D34 /* learncpp_projects */ = {
 			isa = PBXGroup;
 			children = (
-				DA0FAD932B399CBA00C28D34 /* main.cpp */,
+				DA0FAD9A2B399CCA00C28D34 /* HelloWorld */,
 			);
 			path = learncpp_projects;
+			sourceTree = "<group>";
+		};
+		DA0FAD9A2B399CCA00C28D34 /* HelloWorld */ = {
+			isa = PBXGroup;
+			children = (
+				DA0FAD932B399CBA00C28D34 /* main.cpp */,
+			);
+			path = HelloWorld;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
